@@ -21,7 +21,7 @@ TeckPro es un proyecto de landing page desarrollado con HTML y CSS3 nativo para 
 El proyecto TeckPro es una landing page estática y no requiere instalación. Puedes descargar o clonar el repositorio y abrir el archivo `index.html` en tu navegador favorito.
 
 ```bash
-git clone https://github.com/tuusuario/TeckPro.git
+git clone https://github.com/diegoT3ck/techPro.git
 ```
 ## Formatos de Imágenes
 
